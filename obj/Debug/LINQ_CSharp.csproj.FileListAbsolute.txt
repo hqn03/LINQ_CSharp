@@ -1,0 +1,7 @@
+C:\Users\Nhat\source\repos\LINQ_CSharp\bin\Debug\LINQ_CSharp.exe.config
+C:\Users\Nhat\source\repos\LINQ_CSharp\bin\Debug\LINQ_CSharp.exe
+C:\Users\Nhat\source\repos\LINQ_CSharp\bin\Debug\LINQ_CSharp.pdb
+C:\Users\Nhat\source\repos\LINQ_CSharp\obj\Debug\LINQ_CSharp.csproj.AssemblyReference.cache
+C:\Users\Nhat\source\repos\LINQ_CSharp\obj\Debug\LINQ_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Nhat\source\repos\LINQ_CSharp\obj\Debug\LINQ_CSharp.exe
+C:\Users\Nhat\source\repos\LINQ_CSharp\obj\Debug\LINQ_CSharp.pdb
